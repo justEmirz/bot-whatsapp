@@ -23,6 +23,7 @@ kalau belum:
 pkg install nodejs
 pkg install git
 npm install @barz-dev/baileys
+```
 
 Clone repo:
 
