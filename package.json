@@ -1,0 +1,26 @@
+{
+  "name": "whatsapp-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@barz-dev/baileys": "^8.4.0",
+    "axios": "^1.16.1",
+    "dotenv": "^17.4.2",
+    "fluent-ffmpeg": "^2.1.3",
+    "googlethis": "^1.8.0",
+    "moment-timezone": "^0.6.2",
+    "node-fetch": "^3.3.2",
+    "pino": "^10.3.1",
+    "qrcode-terminal": "^0.12.0",
+    "sharp": "^0.34.5"
+  }
+}
